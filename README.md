@@ -1,1 +1,1 @@
-# simple-hangman-game-using-python
+# simple-hangman-game-using-pytho
